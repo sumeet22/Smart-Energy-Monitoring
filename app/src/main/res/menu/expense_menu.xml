@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+        <item
+            android:id="@+id/nav_barChart"
+            android:title="Open Bar Chart" />
+        <item
+            android:id="@+id/nav_calculator"
+            android:title="Energy Cost Calculator" />
+        <item
+            android:id="@+id/nav_appliances"
+            android:title="Appliances List &amp; consumtions" />
+        <item
+            android:id="@+id/nav_tips"
+            android:title="Tips &amp; Tricks" />
+        <item
+            android:id="@+id/weburl"
+            android:title="NEA website link" />
+</menu>
